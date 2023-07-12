@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Leo Salles</h1>
-<h3 align="center">An ecletic Data Analyst</h3>
+# AgriData-Analysis Repository
 
-- 🌱 I’m currently learning **Big Data and Artificial Intelligence**
+Welcome to the **AgriData-Analysis** repository! This repository serves as a comprehensive resource for agricultural data analysis, offering a diverse range of files tailored to various job roles within the agricultural sector. Whether you're a researcher, analyst, agronomist, or data scientist, you'll find valuable assets to support your work.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SallesLeonardo/AgriData-Analysis/tree/main](https://github.com/SallesLeonardo/AgriData-Analysis/tree/main)
+## Repository Contents
 
-- 💬 Ask me which **insights you can get from your data. We'll find out together.**
+1. **Jupyter Notebooks:** Dive into a collection of Jupyter notebooks that cover different aspects of agricultural data analysis. These notebooks demonstrate data cleaning, visualization, modeling, and statistical analysis techniques specific to agriculture. They provide a practical guide to applying data science methods to solve agricultural challenges.
 
-- 📫 How to reach me **salles_leo@hotmail.com**
+2. **PowerPoint Presentations:** Access visually engaging PowerPoint presentations that address key agricultural topics. These presentations offer insights into crop production, soil health, climate impact, market trends, and more. Use them as educational resources, training materials, or to share knowledge with colleagues and stakeholders.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardosallesec2321/](https://www.linkedin.com/in/leonardosallesec2321/)
+3. **Loose Insights:** Explore a series of insightful documents that capture valuable observations and recommendations derived from analyzing agricultural data. These insights are designed to spark new ideas, prompt further investigation, and enhance decision-making processes within the agricultural industry.
 
-- ⚡ Fun fact **Old is Cool**
+4. **Dashboards:** Discover interactive dashboards that provide intuitive visualizations of agricultural data. These dashboards enable users to explore data trends, perform ad-hoc analysis, and gain valuable insights at a glance. They offer a user-friendly interface for professionals seeking quick and actionable information.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leonardosallesec2321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardosallesec2321" height="30" width="40" /></a>
-</p>
+## How to Use
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+1. Clone the repository to your local machine using the following command:
+   ```
+   git clone https://github.com/your-username/AgriData-Analysis.git
+   ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sallesleonardo&show_icons=true&locale=en&layout=compact" alt="sallesleonardo" /></p>
+2. Navigate through the repository to access the relevant folders containing Jupyter notebooks, PowerPoint presentations, loose insights, and dashboards.
+
+3. Open the Jupyter notebooks using Jupyter Notebook or JupyterLab to interact with the code and explore various data analysis techniques. Execute the cells to see the results and adapt the code to your specific needs.
+
+4. Review the PowerPoint presentations to gain a comprehensive understanding of agricultural topics and trends. Customize the slides as necessary to fit your specific requirements or use them as educational resources.
+
+5. Read through the loose insights to gain valuable knowledge and recommendations derived from agricultural data analysis. Use these insights to enhance your understanding of the industry and inform decision-making processes.
+
+6. Interact with the dashboards to visualize agricultural data and gain real-time insights. Explore different variables, filter data, and examine trends to support your analysis and decision-making.
+
+## Contributing
+
+We encourage contributions from the community to enrich this repository and make it a valuable resource for the agricultural community. If you have Jupyter notebooks, presentations, insights, dashboards, or any other job-related files, please fork this repository, make your changes, and submit a pull request.
+
+We hope the AgriData-Analysis repository proves to be a valuable asset for your agricultural data analysis endeavors. Happy exploring and analyzing!
